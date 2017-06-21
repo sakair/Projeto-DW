@@ -6,3 +6,4 @@ A cada mudança no projeto será adicionado um novo arquivo da versão mobile, p
 
 O aplicativo funciona de maneira muito simples, coisa que o grupo decidiu desde o começo do projeto. Ele possui a funcionalidade de cadastro e login de usuários a partir do banco de dados local, uma funcionalidade de postar fotos da matéria anotadas no quadro pelo professor, cadastrar uma prova, ver a lista de provas e excluir uma prova caso o usuário deseje.
 
+Para acessar o banco local é preciso acessar o console do navegador apertando f12 ou pelo próprio debugger do Intel XDK.
